@@ -1,0 +1,4 @@
+# dsh-continuation bundle patch: mount the plugin into a profile layer stack.
+- insert:
+    - id: dsh-continuation
+      name: '@local/dsh-continuation'
